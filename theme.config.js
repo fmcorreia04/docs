@@ -1,5 +1,5 @@
 export default {
-    projectLink: 'https://github.com/fmcorreia04/docs', // GitHub link in the navbar
+    github: 'https://github.com/fmcorreia04/docs', // GitHub link in the navbar
     docsRepositoryBase: 'https://github.com/fmcorreia04/docs', // base URL for the docs repository
     titleSuffix: ' | Docs @FMCorreia',
     nextLinks: true,
